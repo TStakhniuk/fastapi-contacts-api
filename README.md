@@ -2,6 +2,13 @@
 
 A powerful and secure REST API for contact management, built with the modern FastAPI framework. This application provides a full suite of features for managing contacts, complete with user authentication, email verification, rate limiting, and much more.
 
+## 🌐 Live Demo
+
+The project is live and can be accessed at: https://significant-kacey-fastapi-contacts-api-49b8994e.koyeb.app/
+
+- **API Documentation (Swagger UI):** https://significant-kacey-fastapi-contacts-api-49b8994e.koyeb.app/docs
+- **Alternative Docs (ReDoc):** https://significant-kacey-fastapi-contacts-api-49b8994e.koyeb.app/redoc
+
 ## ✨ Key Features
 
 - **Full CRUD Functionality:** Complete Create, Read, Update, and Delete operations for contacts.
